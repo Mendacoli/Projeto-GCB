@@ -124,7 +124,7 @@ export default function RequestsPage() {
                                         className="border border-[#E0DED8] rounded-xl p-4 flex justify-between items-center"
                                     >
                                         <div>
-                                            <h3 className="text-sm text-black">
+                                            <h3 className="text-sm text-black font-bold">
                                                 {r.title}
                                             </h3>
                                             <p className="text-sm text-black">
